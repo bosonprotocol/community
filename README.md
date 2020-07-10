@@ -1,3 +1,3 @@
 # Documentation
-Documentation resources for Boson Protocol are available in [Wiki](https://github.com/bosonprotocol/docs/wiki).
+Boson Protocol white paper, light version is available [here](boson_protocol-white_paper-light.pdf).
 
