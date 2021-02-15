@@ -1,5 +1,7 @@
 # Documentation
 
+[![Gitter chat](https://badges.gitter.im/bosonprotocol.png)](https://gitter.im/bosonprotocol/community)
+
 Boson Protocol white paper, light version is available [here](boson_protocol-white_paper-light.pdf).
 
 ## Contributing
