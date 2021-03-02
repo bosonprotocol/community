@@ -4,7 +4,7 @@
 
 ## Role Summary
 
-We are looking for a fast paced, level headed, proactive DevOps engineer with minimum 2 years of experience to join our growing team. The ideal candidate has in-depth knowledge of the blockchain industry, is in sync with state of the art DevOps best practices and will play a key role in the delivery of CI/CD pipelines, developer tooling and production deployments. The initial engagement is for Q4 2020 but may be extended to a long term position.
+We are looking for a fast paced, level headed, proactive DevOps engineer with minimum 2 years of experience to join our growing team. The ideal candidate has in-depth knowledge of the blockchain industry, is in sync with state of the art DevOps best practices and will play a key role in the delivery of CI/CD pipelines, developer tooling and production deployments.
 
 ## What you will do:
 

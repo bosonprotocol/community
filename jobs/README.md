@@ -45,4 +45,4 @@ If you would like to be part of the foundational change in how we view commerce,
 
 ## Contributing back
 
-Think there's an issue with this job postings? Have a general question about any of the postings here? Get in touch. Email [richardlittauer@bosonprotocol.io](mailto:richardlittauer@bosonprotocol.io) or [alastairband@bosonprotocol.io](alastairband@bosonprotocol.io).
+Think there's an issue with this job postings? Have a general question about any of the postings here? Get in touch. Email [jobs@bosonprotocol.io](jobs@bosonprotocol.io).
