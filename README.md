@@ -12,7 +12,7 @@ We plan to open source other repositories in @bosonprotocol as soon as possible.
 
 ## Jobs
 
-Boson Protocol has funds to actively hire full time developers to work on this project. Check out the [Jobs board](jobs/README.md) for more, and take a look at the postings in [Jobs](/jobs).
+Boson Protocol has funds to actively hire full time developers to work on this project. Check out the [Jobs board](jobs/README.md) for more.
 
 ## Contributing
 

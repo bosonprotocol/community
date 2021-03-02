@@ -1,6 +1,6 @@
 # Web3 Data Expert
 
-_Copied verbatim from [here](https://boards.greenhouse.io/bosonprotocol/jobs/4299158003)_.
+**[Apply here](https://boards.greenhouse.io/bosonprotocol/jobs/4299158003).**
 
 ## Role Summary
 

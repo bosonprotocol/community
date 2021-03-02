@@ -9,7 +9,6 @@ Our job site is [here](https://boards.greenhouse.io/bosonprotocol): but, because
 - [Blockchain Engineer](blockchain-engineer.md)
 - [Full Stack Engineer](full-stack-engineer.md)
 - [Infrastructure Engineer](inf-engineer.md)
-- [Tech Lead: Blockchain](tech-lead-blockchain.md)
 - [Tech Ops](tech-ops.md)
 - [UX Designer](ux-designer.md)
 - [Web3 Data Expert](web3-data-expert.md)

@@ -1,6 +1,6 @@
 # Blockchain Engineer
 
-_Copied verbatim from [here](https://boards.greenhouse.io/bosonprotocol/jobs/4299165003)_.
+**[Apply here](https://boards.greenhouse.io/bosonprotocol/jobs/4299165003**.
 
 ## Role Summary
 

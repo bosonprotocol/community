@@ -1,6 +1,6 @@
 # Tech Ops
 
-_Copied verbatim from [here](https://boards.greenhouse.io/bosonprotocol/jobs/4328821003)_.
+**[Apply here](https://boards.greenhouse.io/bosonprotocol/jobs/4328821003).**
 
 
 ## Role Summary

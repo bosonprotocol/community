@@ -1,6 +1,6 @@
 # User Experience Designer
 
-_Copied verbatim from [here](https://boards.greenhouse.io/bosonprotocol/jobs/4329321003)_.
+**[Apply here](https://boards.greenhouse.io/bosonprotocol/jobs/4329321003).**
 
 ## Role Summary
 

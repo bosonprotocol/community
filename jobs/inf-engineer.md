@@ -1,6 +1,6 @@
 # Infrastructure Engineer
 
-_Copied verbatim from [here](https://boards.greenhouse.io/bosonprotocol/jobs/4305205003)_.
+**[Apply here](https://boards.greenhouse.io/bosonprotocol/jobs/4305205003).**
 
 ## Role Summary
 

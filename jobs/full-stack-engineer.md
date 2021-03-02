@@ -1,7 +1,6 @@
 # Full Stack Engineer
 
-_Copied verbatim from [here](https://boards.greenhouse.io/bosonprotocol/jobs/4299170003)_.
-
+**[Apply here](https://boards.greenhouse.io/bosonprotocol/jobs/4299170003).**
 
 ## Role Summary
 
