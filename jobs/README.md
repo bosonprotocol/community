@@ -37,6 +37,10 @@ If you are passionate about revolutionizing ​the way commerce works by bridgin
 - Collaboration: Expertise is key, but sharing knowledge and building together with joy is the foundation of truly remarkable work
 - Stay lean: Our ethos is to create and share value equitably, with minimal value extraction.
 
+## Applying for a job
+
+Click on the "Apply Here" link in each job description. It'll take you to our Greenhouse site for managing job applications.
+
 ## Final Thoughts
 
 If you would like to be part of the foundational change in how we view commerce, then we would love to talk to you about the dCommerce revolution.
