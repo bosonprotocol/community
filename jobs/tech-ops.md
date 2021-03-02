@@ -2,7 +2,6 @@
 
 **[Apply here](https://boards.greenhouse.io/bosonprotocol/jobs/4328821003).**
 
-
 ## Role Summary
 
 We are looking for an experienced Tech Ops person to join our ever growing team here at Boson Protocol. We are using a number of internal systems and tools and need someone who is proactive in their approach of implementation as well as user support. Inside out knowledge of G-Suite, Notion, Slack and Asana is essential, as is understanding the importance of password management and security with 1Password.

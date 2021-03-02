@@ -10,8 +10,6 @@ Our job site is [here](https://boards.greenhouse.io/bosonprotocol): but, because
 - [Full Stack Engineer](full-stack-engineer.md)
 - [Infrastructure Engineer](inf-engineer.md)
 - [Tech Ops](tech-ops.md)
-- [UX Designer](ux-designer.md)
-- [Web3 Data Expert](web3-data-expert.md)
 
 All of our positions are **full time, remote-first,** and **pay competitively.**
 
