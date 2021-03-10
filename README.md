@@ -1,18 +1,18 @@
-# Documentation
+# Community
 
 [![Gitter chat](https://badges.gitter.im/bosonprotocol.png)](https://gitter.im/bosonprotocol/community)
 
 This repository is for:
 
-- **Documentation** which applies to all of the Boson Protocol ecosystem;
 - **Announcements** related to Boson Protocol
-- **Job postings** related to Boson Protocol.
+- **Discussion** of Boson Protocol community topics.
+- **Documentation** which applies to all of the Boson Protocol ecosystem;
 
 We plan to open source other repositories in @bosonprotocol as soon as possible. For now, **watch this repository** for announcements, which will be made in the issues.
 
 ## Jobs
 
-Boson Protocol has funds to actively hire full time developers to work on this project. Check out the [Jobs board](jobs/README.md) for more.
+Boson Protocol has funds to actively hire full time developers to work on this project. Check out the [Jobs board](https://github.com/bosonprotocol/jobs) for more.
 
 ## Contributing
 
