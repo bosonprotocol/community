@@ -2,6 +2,16 @@
 
 This is an organization-wide Contributing.md, which lists the default expectations and norms for contributing to any repository in @bosonprotocol. Any local Contributing.md can override this, but this is meant to be a source of truth for how to work together effectively.
 
+## Style Guide
+
+### Markdown
+
+- For markdown, use `#` instead of `===`.
+
+### Grammar
+
+- Capitalize "Code of Conduct".
+
 ## Tests
 
 All commits in a pull request should pass tests before being submitted.
