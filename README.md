@@ -14,6 +14,10 @@ We plan to open source other repositories in @bosonprotocol as soon as possible.
 
 Boson Protocol has funds to actively hire full time developers to work on this project. Check out the [Jobs board](https://github.com/bosonprotocol/jobs) for more.
 
+## Security
+
+We run a [Bug Bounty Program](BugBountyProgram.md) for security bounties. Do not open a public issue or PR for security vulnerabilities! Please refer to the document for more on this.
+
 ## Contributing
 
 Contributions are welcome. If you've got an issue or a pull request that seems relevant to this repository - including a question, a spelling error change, or an overhaul to how we do contributing docs - please contribute. This is an open source project, owned by the community.

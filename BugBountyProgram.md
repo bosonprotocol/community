@@ -24,8 +24,8 @@ The following areas are excluded from the scope of our bug bounty program:
 
 ## Rewards
 
-Your report will be assessed by our Tech Team and scored using Common Vulnerability Scoring System (CVSS).
-Rewards range from 100DAI to 5000DAI depending on the outcome of the CVSS score. 
+Your report will be assessed by our Tech Team and scored using the Common Vulnerability Scoring System (CVSS).
+Rewards range from 100DAI to 5000DAI depending on the outcome of the CVSS score.
 
 ## Reporting a vulnerability
 
@@ -39,4 +39,4 @@ The above should be sent to security@bosonprotocol.io and we will respond with i
 
 **DO NOT FILE A PUBLIC ISSUE OR PULL REQUEST IF THERE ARE SECURITY CONCERNS.**
 
-If a public issue or pull request is filed before a vulnerability report to security@bosonprotocol.io, no reward will be posted. 
+If a public issue or pull request is filed before a vulnerability report to security@bosonprotocol.io, no reward will be posted.
