@@ -5,7 +5,6 @@ We are committed to ensuring that the security of our data and systems is paramo
 ## Bounty Scope
 
 The following areas are within the scope of our Bug Bounty program:
-- [Boson Protocol](https://bosonprotocol.io) website
 - All Boson Protocol GitHub repositories
 
 The following areas are excluded from the scope of our bug bounty program:
