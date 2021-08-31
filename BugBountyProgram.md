@@ -9,6 +9,7 @@ The following areas are within the scope of our Bug Bounty program:
 
 The following areas are excluded from the scope of our bug bounty program:
 - DoS/DDoS
+- Boson Protocol website
 - Phishing/CEO Fraud
 - Social Engineering
 - Services or applications hosted by third-party providers
