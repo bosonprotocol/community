@@ -12,12 +12,15 @@ We are reshaping commerce for the new Web3 era and we need your help to succeed!
 
 ## Boson Protocol Contracts
 
-||Low ||Medium ||High ||Critical||
-|$100 |$500 |$10,000 |Up to $50,000|
+| Low  | Medium | High    | Critical      |
+| ---- | ------ | ------- | ------------- |
+| $100 | $500   | $10,000 | Up to $50,000 |
 
-Boson Portal
-||Low ||Medium ||High ||Critical||
-|$100 |$500 |$2,000 |Up to $10,000|
+## Boson Portal
+
+| Low  | Medium | High   | Critical      |
+| ---- | ------ | ------ | ------------- |
+| $100 | $500   | $2,000 | Up to $10,000 |
 
 Your report will be assessed by the Boson Protocol team and scored using the Common Vulnerability Scoring Scheme (CVSS).
 
