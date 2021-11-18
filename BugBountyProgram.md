@@ -12,12 +12,15 @@ We are reshaping commerce for the new Web3 era and we need your help to succeed!
 
 ## Boson Protocol Contracts
 
-||Low ||Medium ||High ||Critical||
-|$100 |$500 |$10,000 |Up to $50,000|
+|Low |Medium|High    |Critical      |
+|----|------|--------|--------------|
+|$100 |$500 |$10,000 |Up to $50,000 |
 
-Boson Portal
-||Low ||Medium ||High ||Critical||
-|$100 |$500 |$2,000 |Up to $10,000|
+## Boson Portal
+
+|Low  |Medium|High    |Critical     |
+|-----|------|--------|-------------|
+|$100 |$500  |$2,000  |Up to $10,000|
 
 Your report will be assessed by the Boson Protocol team and scored using the Common Vulnerability Scoring Scheme (CVSS).
 
@@ -31,43 +34,43 @@ Issues that have already been submitted by another user or are already known to 
 
 Boson Protocol will make a best effort to meet the following SLAs for security researchers participating in our program:
 
-- Time to first response (from report submission) - 3 business days
-- Time to triage (from report submission) - 5 business days
-- Time to bounty (from triage) - 30 business days
+* Time to first response (from report submission) - 3 business days
+* Time to triage (from report submission) - 5 business days
+* Time to bounty (from triage) - 30 business days
 
 We’ll try to keep you informed about our progress throughout the process.
 
-### Participation Requirements
+## Participation Requirements 
 
 Participation in the Boson Protocol Bug Bounty program requires you to adhere to “Responsible Disclosure”. Responsible Disclosure includes:
 
-- Providing a reasonable amount of time to fix a vulnerability prior to sharing details of the said vulnerability with any other party.
-- Make a good faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our service. Only interact with accounts you own or with the explicit permission of the account holder.
-- Not defrauding Boson Protocol users, partners or Boson Protocol itself in the process of participating.
-- Not profiting from or allowing any other party to profit from a vulnerability outside of the payouts made by this program.
-- Reporting vulnerabilities with no conditions, demands, or ransom threats.
+*  Providing a reasonable amount of time to fix a vulnerability prior to sharing details of the said vulnerability with any other party.
+*  Make a good faith effort to avoid privacy violations, destruction of data, and interruption or degradation of our service. Only interact with accounts you own or with the explicit permission of the account holder.
+*  Not defrauding Boson Protocol users, partners or Boson Protocol itself in the process of participating.
+*  Not profiting from or allowing any other party to profit from a vulnerability outside of the payouts made by this program.
+*  Reporting vulnerabilities with no conditions, demands, or ransom threats.
 Social Engineering attacks against Boson Protocol contributors is deemed a violation with respect to this program. Researchers engaging in Social Engineering attacks against Boson Protocol contributors will be banned from this program. We define Social Engineering as acts that influence people to perform security-impacting actions or divulge confidential information.
-- Asking our permission before disclosing the vulnerability
+*  Asking our permission before disclosing the vulnerability
 
 ## How to submit your vulnerability
 
 Please provide us with the following information when submitting a bug to this program:
 
-- Summary of the bug
-- Severity of the bug
-- Steps to reproduce
-- Working proof of concept + any support materials (code, screenshots, logs etc)
-- Is any private personal data exposed?
-- Is any partner data exposed
-- Are user or partner funds at risk of being lost or irretrievable?
+*  Summary of the bug
+*  Severity of the bug
+*  Steps to reproduce
+*  Working proof of concept + any support materials (code, screenshots, logs etc)
+*  Is any private personal data exposed?
+*  Is any partner data exposed
+*  Are user or partner funds at risk of being lost or irretrievable?
 
 Email your report to (security@bosonprotocol.io)[mailto:security@bosonprotocol.io]
  
 Please consult our Privacy Policy for further details on how we handle submissions.
 
-##What we are interested in
+## What we are interested in
 
-The most important class of bugs we’re looking for are ones that would cause our users to lose access to their funds. Whether this be through gaining admin privileges on the protocol or through a mechanism that renders funds frozen and unusable within the escrow system. These along with any vulnerabilities that could be used to to defraud potential buyers and sellers are deemed the most important class of exploits- for example, vulnerabilities within the NFT Voucher that is used to commit to a sale or purchase.
+The most important class of bugs we’re looking for are ones that would cause our users to lose access to their funds. Whether this be through gaining admin privileges on the protocol or through a mechanism that renders funds frozen and unusable within the escrow system. These along with any vulnerabilities that could be used to to defraud potential buyers and sellers are deemed the most important class of exploits* for example, vulnerabilities within the NFT Voucher that is used to commit to a sale or purchase.
 
 Of lesser importance but still of interest are any vulnerabilities in the Portal interface that may allow users to gain unauthorized advantage in any of the Quests or to obtain private information about other users or Boson Protocol’s partners.
 
@@ -77,25 +80,25 @@ We are primarily inviting vulnerability reports relating to the Boson Protocol C
 
 (This document)[https://github.com/bosonprotocol/contracts/blob/main/docs/contracts/deployment.md] contains the most up to date contract addresses on the Ethereum main net and on Ethereum’s Ropsten test net.
 
-Note that we are only interested in bugs on the release tagged “Latest” in (this document)[https://github.com/bosonprotocol/contracts/releases], not in pre-releases or any other branches.
+Note that we are only interested in bugs on the release tagged “Latest” in (this document)[https://github.com/bosonprotocol/contracts/releases], not in pre*releases or any other branches.
 
 ## Out of scope
 
-- Misconfigurations or operational issues
-- Browser vulnerabilities
-- OS vulnerabilities
-- Spam, Phishing, Vishing, Smishing, Social Engineering of users, partners and contributors
-- (D)DoS attacks
-- Issues that have already been submitted, which are known or which are pending review
-- Our web properties, including but not limited to our website, blog and documentation site
-- The Leptonite reference application
-- Vulnerabilities or attacks on third-party providers (unless otherwise specified)
-- Vulnerabilities on third party libraries without showing specific impact to the target application
-- Scanner output or Scanner generated reports, including any automated or active exploit tool
-- Information leaks via code repositories, transparency logs etc
-- Vulnerabilities on third-party platforms, for example, Decentraland
-- Vulnerabilities in Ethereum itself, or in client applications such as wallets
-- Vulnerabilities submitted by individuals who have contributed to the code in the repositories specified directly or indirectly (including external auditors) are not eligible for rewards.
+* Misconfigurations or operational issues
+* Browser vulnerabilities
+* OS vulnerabilities
+* Spam, Phishing, Vishing, Smishing, Social Engineering of users, partners and contributors
+* (D)DoS attacks
+* Issues that have already been submitted, which are known or which are pending review
+* Our web properties, including but not limited to our website, blog and documentation site
+* The Leptonite reference application
+* Vulnerabilities or attacks on third*party providers (unless otherwise specified)
+* Vulnerabilities on third party libraries without showing specific impact to the target application
+* Scanner output or Scanner generated reports, including any automated or active exploit tool
+* Information leaks via code repositories, transparency logs etc
+* Vulnerabilities on third-party platforms, for example, Decentraland
+* Vulnerabilities in Ethereum itself, or in client applications such as wallets
+* Vulnerabilities submitted by individuals who have contributed to the code in the repositories specified directly or indirectly (including external auditors) are not eligible for rewards.
  
 ## Legal Notice
 
