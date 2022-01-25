@@ -1,6 +1,6 @@
 # Community
 
-[![Gitter chat](https://badges.gitter.im/bosonprotocol.png)](https://gitter.im/bosonprotocol/community)
+[Join our Discord](https://discord.com/invite/QSdtKRaap6)
 
 This repository is for:
 
