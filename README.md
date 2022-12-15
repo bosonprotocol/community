@@ -10,10 +10,6 @@ This repository is for:
 
 We plan to open source other repositories in @bosonprotocol as soon as possible. For now, **watch this repository** for announcements, which will be made in the issues.
 
-## Jobs
-
-Boson Protocol has funds to actively hire full time developers to work on this project. Check out the [Jobs board](https://github.com/bosonprotocol/jobs) for more.
-
 ## Security
 
 We run a [Bug Bounty Program](BugBountyProgram.md) for security bounties. Do not open a public issue or PR for security vulnerabilities! Please refer to the document for more on this.
