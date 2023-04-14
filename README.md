@@ -1,18 +1,10 @@
 # Community
 
-[Join our Discord](https://discord.com/invite/QSdtKRaap6)
-
-This repository is for:
-
-- **Announcements** related to Boson Protocol
-- **Discussion** of Boson Protocol community topics.
-- **Documentation** which applies to all of the Boson Protocol ecosystem;
-
-We plan to open source other repositories in @bosonprotocol as soon as possible. For now, **watch this repository** for announcements, which will be made in the issues.
+[Join our Discord](http://discord.com/invite/bosonprotocol)
 
 ## Security
 
-We run a [Bug Bounty Program](BugBountyProgram.md) for security bounties. Do not open a public issue or PR for security vulnerabilities! Please refer to the document for more on this.
+We run a [Bug Bounty Program](https://immunefi.com/bounty/bosonprotocol/) for security bounties. Do not open a public issue or PR for security vulnerabilities! Please refer to the program for more on this.
 
 ## Contributing
 
