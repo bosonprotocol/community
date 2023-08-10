@@ -4,25 +4,27 @@ Boson Protocol enables the tokenization, transfer and trade of any physical thin
 
 For more information about Boson Protocol, please visit https://www.bosonprotocol.io/. 
 
-We are reshaping commerce for the new Web3 era and we need your help to succeed! If you have discovered a bug, please contact us and join the Boson Protocol Bug Bounty as soon as possible and we will make sure that you get your reward!
+We are reshaping commerce for the new Web3 era and we need your help to succeed! If you have discovered a security bug, please contact us and join the Boson Protocol Bug Bounty as soon as possible and we will make sure that you get your reward!
 
 ## The Bounty Program
 
-All Smart Contract bug reports require a PoC to be eligible for a reward. Explanations and statements are not accepted as PoC and code is required. All web/app bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward.
+All Smart Contract bug reports require a proof-of-concept (PoC) to be eligible for a reward. Explanations and statements are not accepted as PoC, instead code is required. All web/app bug reports must come with a PoC with an end-effect impacting assets in-scope in order to be considered for a reward.
 
-Payouts are handled by the Boson Protocol team directly and are denominated in USD. However, payouts are done in BOSON.
+> Payouts are handled by the Boson Protocol team directly and are denominated in USD. However, payouts are done in $BOSON token.
+> 
+> Reports with severity Critical will be streamed over a 3-month period.
 
 ## Rewards - Smart Contracts
 
 |Low |Medium|High    |Critical      |
 |----|------|--------|--------------|
-|$1,000 |$5,000 |$15,000 |Up to $25,000 |
+|$1,000 |$4,000 |$10,000 |Up to $25,000 |
 
 ## Rewards - Websites and applications
 
 |Low  |Medium|High    |Critical     |
 |-----|------|--------|-------------|
-|$1,000 |$2,000  |$5,000  |Up to $15,000|
+|$500 |$1,000  |$4,000  |Up to $15,000|
 
 Your report will be assessed by the Boson Protocol team and scored using the Common Vulnerability Scoring Scheme (CVSS).
 
@@ -65,6 +67,7 @@ Please provide us with the following information when submitting a bug to this p
 *  Is any private personal data exposed?
 *  Is any partner data exposed
 *  Are user or partner funds at risk of being lost or irretrievable?
+*  Optional: recommendation to address the bug.
 
 Email your report to (security@bosonprotocol.io)[mailto:security@bosonprotocol.io]
  
