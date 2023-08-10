@@ -10,21 +10,15 @@ We are reshaping commerce for the new Web3 era and we need your help to succeed!
 
 All Smart Contract bug reports require a PoC to be eligible for a reward. Explanations and statements are not accepted as PoC and code is required. All web/app bug reports must come with a PoC with an end-effect impacting an asset-in-scope in order to be considered for a reward.
 
-The following vulnerabilities are not eligible for a reward:
-* All vulnerabilities marked in https://github.com/bosonprotocol/boson-protocol-contracts/issues
-* All vulnerabilities marked in https://github.com/bosonprotocol/chat-sdk/issues
-* All vulnerabilities marked in https://github.com/bosonprotocol/core-components/issues
-* All vulnerabilities marked in https://github.com/bosonprotocol/interface/issues 
-
 Payouts are handled by the Boson Protocol team directly and are denominated in USD. However, payouts are done in BOSON.
 
-## Smart Contracts
+## Rewards - Smart Contracts
 
 |Low |Medium|High    |Critical      |
 |----|------|--------|--------------|
 |$1,000 |$5,000 |$15,000 |Up to $25,000 |
 
-## Websites and applications
+## Rewards - Websites and applications
 
 |Low  |Medium|High    |Critical     |
 |-----|------|--------|-------------|
@@ -34,7 +28,7 @@ Your report will be assessed by the Boson Protocol team and scored using the Com
 
 The critical asset bounty will only be awarded where there is a serious and potentially permanent impact to a user's funds, or to the core protocol itself.
 
-The bug bounty program considers a number of variables in determining rewards. Determinations of eligibility, score and all terms related to an award are at the sole and final discretion of Boson Protocol. We will not be awarding significant bounties for low severity bugs. Rewards will be paid in USDC
+The bug bounty program considers a number of variables in determining rewards. Determinations of eligibility, score and all terms related to an award are at the sole and final discretion of Boson Protocol. 
 
 Issues that have already been submitted by another user or are already known to Boson Protocol are not eligible for bounty rewards.
 
@@ -58,7 +52,7 @@ Participation in the Boson Protocol Bug Bounty program requires you to adhere to
 *  Not profiting from or allowing any other party to profit from a vulnerability outside of the payouts made by this program.
 *  Reporting vulnerabilities with no conditions, demands, or ransom threats.
 Social Engineering attacks against Boson Protocol contributors is deemed a violation with respect to this program. Researchers engaging in Social Engineering attacks against Boson Protocol contributors will be banned from this program. We define Social Engineering as acts that influence people to perform security-impacting actions or divulge confidential information.
-*  Asking our permission before disclosing the vulnerability
+*  Asking our permission before disclosing the vulnerability.
 
 ## How to submit your vulnerability
 
@@ -80,18 +74,29 @@ Please consult our Privacy Policy for further details on how we handle submissio
 
 The most important class of bugs we’re looking for are ones that would cause our users to lose access to their funds. Whether this be through gaining admin privileges on the protocol or through a mechanism that renders funds frozen and unusable within the escrow system. These along with any vulnerabilities that could be used to to defraud potential buyers and sellers are deemed the most important class of exploits* for example, vulnerabilities within the NFT Voucher that is used to commit to a sale or purchase.
 
-Of lesser importance but still of interest are any vulnerabilities in the Portal interface that may allow users to gain unauthorized advantage in any of the Quests or to obtain private information about other users or Boson Protocol’s partners.
+Of lesser importance but still of interest are any vulnerabilities in the Boson dApp interface that may allow users to gain unauthorized advantage in any of the Quests or to obtain private information about other users or Boson Protocol’s partners.
 
 ## Scope
 
-We are primarily inviting vulnerability reports relating to the Boson Protocol Contracts repo and to the Boson Portal user interface.
+We are primarily inviting vulnerability reports relating to the Boson Protocol Contracts repo and to the Boson dApp user interface.
 
-(This document)[https://github.com/bosonprotocol/contracts/blob/main/docs/contracts/deployment.md] contains the most up to date contract addresses on the Ethereum main net and on Ethereum’s Ropsten test net.
+(This document)[https://github.com/bosonprotocol/boson-protocol-contracts/blob/main/addresses/137-polygon-prod.json] contains the most up to date production deployment contract addresses.
 
-Note that we are only interested in bugs on the release tagged “Latest” in (this document)[https://github.com/bosonprotocol/contracts/releases], not in pre*releases or any other branches.
+Note that we are only interested in bugs on the releases tagged “Latest”, not in pre*releases or any other branches:
+* https://github.com/bosonprotocol/boson-protocol-contracts/
+* https://github.com/bosonprotocol/chat-sdk/
+* https://github.com/bosonprotocol/core-components/
+* https://github.com/bosonprotocol/interface/ 
 
 ## Out of scope
 
+The following vulnerabilities (bugs) are not eligible for a reward:
+* All vulnerabilities marked in https://github.com/bosonprotocol/boson-protocol-contracts/issues
+* All vulnerabilities marked in https://github.com/bosonprotocol/chat-sdk/issues
+* All vulnerabilities marked in https://github.com/bosonprotocol/core-components/issues
+* All vulnerabilities marked in https://github.com/bosonprotocol/interface/issues
+
+These are out of scope as well:
 * Misconfigurations or operational issues
 * Browser vulnerabilities
 * OS vulnerabilities
@@ -99,13 +104,12 @@ Note that we are only interested in bugs on the release tagged “Latest” in (
 * (D)DoS attacks
 * Issues that have already been submitted, which are known or which are pending review
 * Our web properties, including but not limited to our website, blog and documentation site
-* The Leptonite reference application
 * Vulnerabilities or attacks on third*party providers (unless otherwise specified)
 * Vulnerabilities on third party libraries without showing specific impact to the target application
 * Scanner output or Scanner generated reports, including any automated or active exploit tool
 * Information leaks via code repositories, transparency logs etc
 * Vulnerabilities on third-party platforms, for example, Decentraland
-* Vulnerabilities in Ethereum itself, or in client applications such as wallets
+* Vulnerabilities in underlying blockchain network itself, or in client applications such as wallets
 * Vulnerabilities submitted by individuals who have contributed to the code in the repositories specified directly or indirectly (including external auditors) are not eligible for rewards.
  
 ## Legal Notice
