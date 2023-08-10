@@ -4,7 +4,7 @@
 
 ## Security
 
-We run a [Bug Bounty Program](https://immunefi.com/bounty/bosonprotocol/) for security bounties. Do not open a public issue or PR for security vulnerabilities! Please refer to the program for more on this.
+We run a [Bug Bounty Program](BugBountyProgram.md) for security bounties. Do not open a public issue or PR for security vulnerabilities! Please refer to the program for more on this.
 
 ## Contributing
 
