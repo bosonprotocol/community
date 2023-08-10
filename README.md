@@ -1,6 +1,6 @@
 # Community
 
-[Join our Discord](http://discord.com/invite/bosonprotocol)
+[Join our Discord](https://discord.com/invite/5dRV7fWet2)
 
 ## Security
 
