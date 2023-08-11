@@ -69,7 +69,7 @@ Please provide us with the following information when submitting a bug to this p
 *  Are user or partner funds at risk of being lost or irretrievable?
 *  Optional: recommendation to address the bug.
 
-Email your report to (security@bosonprotocol.io)[mailto:security@bosonprotocol.io]
+Email your report to [security@bosonprotocol.io](mailto:security@bosonprotocol.io)
  
 Please consult our Privacy Policy for further details on how we handle submissions.
 
@@ -83,7 +83,7 @@ Of lesser importance but still of interest are any vulnerabilities in the Boson 
 
 We are primarily inviting vulnerability reports relating to the Boson Protocol Contracts repo and to the Boson dApp user interface.
 
-(This document)[https://github.com/bosonprotocol/boson-protocol-contracts/blob/main/addresses/137-polygon-prod.json] contains the most up to date production deployment contract addresses.
+[This document](https://github.com/bosonprotocol/boson-protocol-contracts/blob/main/addresses/137-polygon-prod.json) contains the most up to date production deployment contract addresses.
 
 Note that we are only interested in bugs on the releases tagged “Latest”, not in pre*releases or any other branches:
 * https://github.com/bosonprotocol/boson-protocol-contracts/
