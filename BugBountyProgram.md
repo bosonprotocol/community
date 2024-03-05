@@ -20,7 +20,7 @@ All Smart Contract bug reports require a proof-of-concept (PoC) to be eligible f
 |----|------|--------|--------------|
 |$1,000 |$4,000 |$10,000 |Up to $25,000 |
 
-## Rewards - Websites and applications
+## Rewards - SDK and dApps
 
 |Low  |Medium|High    |Critical     |
 |-----|------|--------|-------------|
@@ -98,6 +98,7 @@ The following vulnerabilities (bugs) are not eligible for a reward:
 * All vulnerabilities marked in https://github.com/bosonprotocol/chat-sdk/issues
 * All vulnerabilities marked in https://github.com/bosonprotocol/core-components/issues
 * All vulnerabilities marked in https://github.com/bosonprotocol/interface/issues
+* All vulnerabilities outside of the list of repos stated in the Scope section
 
 These are out of scope as well:
 * Misconfigurations or operational issues
