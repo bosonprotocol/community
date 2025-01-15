@@ -98,7 +98,7 @@ The following vulnerabilities (bugs) are not eligible for a reward:
 * All vulnerabilities marked in https://github.com/bosonprotocol/chat-sdk/issues
 * All vulnerabilities marked in https://github.com/bosonprotocol/core-components/issues
 * All vulnerabilities marked in https://github.com/bosonprotocol/interface/issues
-* All vulnerabilities outside of the list of repos stated in the Scope section
+* All vulnerabilities outside of the list of repos stated in the Scope section (e.g. project's home website and documentation websites)
 
 These are out of scope as well:
 * Misconfigurations or operational issues
