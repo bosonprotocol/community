@@ -14,17 +14,6 @@ All Smart Contract bug reports require a proof-of-concept (PoC) to be eligible f
 > 
 > Reports with severity Critical will be streamed over a 3-month period.
 
-## Rewards - Smart Contracts
-
-|Low |Medium|High    |Critical      |
-|----|------|--------|--------------|
-|$1,000 |$4,000 |$10,000 |Up to $25,000 |
-
-## Rewards - SDK and dApps
-
-|Low  |Medium|High    |Critical     |
-|-----|------|--------|-------------|
-|$500 |$1,000  |$4,000  |Up to $15,000|
 
 Your report will be assessed by the Boson Protocol team and scored using the Common Vulnerability Scoring Scheme (CVSS).
 
@@ -131,3 +120,4 @@ Any obligations arising out of or in connection with this Bug Bounty Program or 
 ## THANK YOU!
 
 Thank you for helping build the world’s future commerce infrastructure!
+
